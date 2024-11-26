@@ -27,6 +27,7 @@ This repository includes:
 ### 💡 **Data Sources**
 This project was conducted as part of the Data Analytics Career Program I'm enrolled in. I independently sourced and prepared the datasets, focusing on cleaning the data to ensure unique sets were characterized by their IDs, skills and attributes, and aggregated potential information. I also added a few calculated fields like growth room , growth room % which help us in understanding the players from our project perspective.
 * [View data source FIFA 22 Complete Player Dataset on Kaggle ](https://www.kaggle.com/datasets/cashncarry/fifa-22-complete-player-dataset)
+* [View data source for time series forecasting Bitcoin Price| Daily Price | Weekly Update | USD on Kaggle ](https://www.kaggle.com/datasets/dannyrevaldo/bitcoin-price-weekly-update)
 
 ### ⚡️ **Portfolio Highlights**
 Through this project, I demonstrated my ability to transform a complex dataset into actionable insights, balancing technical rigor with creativity. By applying advanced analytical techniques and designing an intuitive Tableau dashboard, I showcased a clear and efficient working style, uncovering meaningful trends in football scouting and player performance. My approach emphasized ethical data use, transparency, and bias mitigation while delivering engaging narratives that connect data-driven findings to real-world recruitment strategies. This project highlights my talent for data storytelling and practical problem-solving in sports analytics.
